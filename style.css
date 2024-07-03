@@ -1,0 +1,115 @@
+body{
+    margin:0px;
+}
+/*Top header section*/
+.dispaly-topheader{
+    display: flex;
+}
+.dispaly-topheader img{
+    width: 150px;
+    height: 100px;
+    margin-left: 200px;
+}
+.display-flex{
+    display: flex;
+    padding:15px 150px;
+}
+.dispaly-topheader li{
+    padding: 20px;
+    list-style-type: none;
+    font-size: 20px;
+}
+.dispaly-topheader li:hover{
+    color: darkmagenta;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+/*about us content*/
+.about-us{
+    text-align: center;
+    font-size: 35px;
+    margin:0px;
+}
+.aboutdisplay{
+    display: flex;
+    padding:20px 200px;
+}
+.aboutdisplay p{
+    width:500px;
+    font-size: 25px;
+    text-align:justify;
+    padding-right: 100px;
+}
+/*Services*/
+.servicesection{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.places{
+    display: flex;
+    padding: 20px 200px;
+}
+.tourist{
+    padding-right: 60px;
+}
+.tourist img{
+    height: 200px;
+    border-radius: 10px;
+}
+.click{
+    border-radius: 20px;
+    border: 1px solid green;
+    background-color: green;
+    padding:5px;
+    color: white;
+    font-size: 20px;
+    margin: 5px 600px;
+}
+/*product section*/
+.pro{
+    background-color: aliceblue;
+}
+.placetour{
+    display: flex;
+    padding: 20px 100px;
+}
+.placetour img{
+    width: 200px;
+    height: 200px;
+    padding-right: 100px;
+}
+/*form section*/
+form{
+    margin: 30px 300px;
+    font-size: 25px;
+}
+label{
+    padding-right: 40px;
+}
+.city{
+    padding-right: 100px;
+}
+.address{
+    padding-right: 70px;
+}
+.require{
+    padding-right: 30px;
+}
+.butt{
+    background-color:black;
+    padding:5px 10px;
+    margin: 35px 70px;
+    color: white;
+    font-size: 20px;
+}
+.butt:hover{
+    background-color: brown;
+}
+/*footer*/
+.foot-sec{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
