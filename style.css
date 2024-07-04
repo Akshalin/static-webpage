@@ -28,7 +28,6 @@ body{
 .about-us{
     text-align: center;
     font-size: 35px;
-    margin:0px;
 }
 .aboutdisplay{
     display: flex;
